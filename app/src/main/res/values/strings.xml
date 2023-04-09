@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">fragmentViewModel</string>
+    <string name="username">Username:</string>
+    <string name="hint_username">Enter your username</string>
+    <string name="password">Password:</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="login_text">Login</string>
+    <string name="signup_text">SignUp</string>
+    <string name="logoimage_text">LogoImage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_signup_fragment">Hello SignUp fragment</string>
+    <string name="desired_username">Username:</string>
+    <string name="enter_your_first_name">FirstName:</string>
+    <string name="enter_password">Enter pasword:</string>
+    <string name="re_enter_password">ReEnter pasword:</string>
+    <string name="enter_valid_email_id_optional_">Enter emailId</string>
+    <string name="enter_last_name">Enter LastName</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="landing_fragment">Welcome to fragment</string>
+</resources>
